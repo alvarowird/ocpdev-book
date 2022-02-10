@@ -8,7 +8,7 @@ And then, back in 2020 when I thought that there is nothing out that could reall
 So this chapter is all about creating a microservice with Quarkus. It enchanted me because it provided interfaces to all the common open source tools for containerization and cloud deployment, and provided a dev mode that took away the boring compilation tasks. If you want to understand more about Quarkus, feel free to get one of the other books available on the [Red Hat developers page][2].
 
 ## First steps
-Quarkus has a [Get Started][3]page. Go there to have a look at how to install the command-line tool, which is called `quarkus`.
+Quarkus has a [Get Started][3] page. Go there to have a look at how to install the command-line tool, which is called `quarkus`.
 
 After you’ve installed `quarkus`, create a new project by executing:
 
